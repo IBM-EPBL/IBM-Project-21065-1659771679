@@ -1,0 +1,24 @@
+* {
+  transition: all 0.3s ease;
+  font-family: "Poppins", sans-serif;
+}
+
+img {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 30%;
+  height: 20%;
+  margin-top: 20px;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: greenyellow;
+  width: 60%;
+  height: 30px;
+  margin-left: 300px;
+  margin-top: 20px;
+  font-weight: bold;
+}
